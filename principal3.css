@@ -1,0 +1,22 @@
+.flexblox{
+	display:flex;
+	border: 2px solid BlueViolet;
+	background-color: Fuchsia;
+	width: 40%;
+}
+#blanco{
+	
+	padding: 20px;
+	margin:10px;
+	background-color:#23606F;
+}
+#rosado{
+	padding: 20px;
+	margin:10px;
+	background-color:Cornsilk;
+}
+#celeste{
+padding: 20px;
+	margin:10px;
+	background-color:tomato;
+	}
